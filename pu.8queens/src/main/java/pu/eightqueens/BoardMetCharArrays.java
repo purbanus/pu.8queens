@@ -28,6 +28,6 @@ public void set( int aRow, int aCol )
 @Override
 public void clear( int aRow, int aCol )
 {
-	fields[aRow][aCol] = 'o';
+	fields[aRow][aCol] = ' ';
 }
 }
